@@ -1,0 +1,13 @@
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\bin\Debug\netcoreapp3.1\exercicio_maxMin.exe
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\bin\Debug\netcoreapp3.1\exercicio_maxMin.deps.json
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\bin\Debug\netcoreapp3.1\exercicio_maxMin.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\bin\Debug\netcoreapp3.1\exercicio_maxMin.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\bin\Debug\netcoreapp3.1\exercicio_maxMin.dll
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\bin\Debug\netcoreapp3.1\exercicio_maxMin.pdb
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\obj\Debug\netcoreapp3.1\exercicio_maxMin.csprojAssemblyReference.cache
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\obj\Debug\netcoreapp3.1\exercicio_maxMin.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\obj\Debug\netcoreapp3.1\exercicio_maxMin.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\obj\Debug\netcoreapp3.1\exercicio_maxMin.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\obj\Debug\netcoreapp3.1\exercicio_maxMin.dll
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\obj\Debug\netcoreapp3.1\exercicio_maxMin.pdb
+C:\Users\PICHAU\Desktop\Exercício1\exercicio_maxMin\obj\Debug\netcoreapp3.1\exercicio_maxMin.genruntimeconfig.cache
